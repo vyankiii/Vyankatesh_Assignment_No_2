@@ -1,0 +1,37 @@
+1.	Write a Java program to create an interface Shape with the getArea() method. Create three classes
+    Rectangle, Circle, and Triangle that implement the Shape interface. Implement the getArea() method
+    for each of the three classes.
+
+2.	Write a Java program to create a base class Animal (Animal Family) with a method called Sound(). 
+    Create two subclasses Bird and Cat. Override the Sound() method in each subclass to make a 
+    specific sound for each animal.
+
+3.	Write a Java program to create a class Vehicle with a method called speedUp(). Create two sub 
+    classes Car and Bicycle Override the speedUp() method in each subclass to increase the vehicle's 
+    speed differently.
+
+4.	Write a Java program to overload a add() method.
+
+5.	Write a Java program to create a class called Shape with methods called getPerimeter() and 
+    getArea(). Create a subclass called Circle that overrides the getPerimeter() and getArea() 
+    methods to calculate the area and perimeter of a circle.
+
+6.	Write a Java program to create a class called Vehicle with a method called drive(). Create 
+    a subclass called Car that overrides the drive() method to print "Repairing a car".
+
+7.	Write a Java program that creates a class hierarchy for employees of a company. The base class 
+    should be Employee, with subclasses Manager, Developer, and Programmer. Each subclass should have
+    properties such as name, address, salary, and job title. Implement methods for calculating 
+    bonuses, generating performance reports, and managing projects.
+
+8.	Write a Java program to create an abstract class Animal with an abstract method called sound(). 
+    Create subclasses Lion and Tiger that extend the Animal class and implement the sound() method to
+    make a specific sound for each animal.
+
+9.	Write a Java program to create an abstract class Person with abstract methods eat() and exercise().
+    Create subclasses Athlete and LazyPerson that extend the Person class and implement 
+    the respective methods to describe how each person eats and exercises.
+    
+10.	Write a Java program to create an abstract class Bird with abstract methods fly() and makeSound().
+    Create subclasses Eagle and Hawk that extend the Bird class and implement the respective methods
+    to describe how each bird flies and makes a sound.
